@@ -1,0 +1,25 @@
+.container {
+	min-height: 10px;
+	color: #fff;
+	padding: 15px 20px 15px 20px;
+
+	.content {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		img {
+			width: 42px;
+			height: 42px;
+			object-fit: cover;
+		}
+		span {
+			background-color: #fff;
+			color: black;
+			padding: 5px 10px;
+			border-radius: 10%;
+		}
+		.name {
+			cursor: pointer;
+		}
+	}
+}

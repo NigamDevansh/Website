@@ -1,0 +1,26 @@
+.mainContainer {
+	color: white;
+	width: 1000px;
+	margin: 0 auto;
+	.buttons {
+		display: flex;
+		justify-content: space-between;
+		padding: 0px 10px;
+		span {
+			background-color: white;
+			color: black;
+			border-radius: 8px;
+			padding: 10px 12px;
+			width: 40%;
+			text-align: center;
+			cursor: pointer;
+		}
+	}
+	.photos {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: space-between;
+		margin-top: 10px;
+	}
+}
