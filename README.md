@@ -37,7 +37,7 @@ Also do the below changes to the config.js file:
 Clone the project
 
 ```bash
-  git clone https://github.com/NigamDevansh/openai_Assistant
+  https://github.com/NigamDevansh/Website
 ```
 
 Go to the project directory
